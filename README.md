@@ -7,7 +7,7 @@ I'm a PhD candidate  at University of Warwick doing research on system modelling
 
 Here on GitHub you can find research projects as well as open source software developed in my spare time.
 
-Support my open source projects by donating: [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/DavidStutz)(https://paypal.me/DavidStutz)
+Support my open source projects by donating: [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/DavidStutz)(https://paypal.me/DavidStutz)]
 
 ---
 
