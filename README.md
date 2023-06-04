@@ -7,9 +7,9 @@ I'm a PhD candidate  at University of Warwick doing research on system modelling
 
 Here on GitHub you can find research projects as well as open source software developed in my spare time.
 
-
+Support my open source projects by donating: [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/DavidStutz)](https://paypal.me/DavidStutz)
 
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=default" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsruart&theme=default&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true" />
