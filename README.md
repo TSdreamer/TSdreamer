@@ -32,7 +32,7 @@ Support my open source projects by donating: [![PayPal](https://img.shields.io/b
 
 
 
-- 🌱 I’m currently learning **ASPEN**
+- 🌱 I’m currently learning **gProms**
 
 - 💬 Ask me about **Energy**
 
