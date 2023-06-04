@@ -28,13 +28,13 @@ Support my open source projects by donating: [![PayPal](https://img.shields.io/b
 
 <p align="left"> <a href="mailto:haotianteemo@outlook.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=pink" alt="Mail" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/krishna__keshav" target="blank"><img src="https://img.shields.io/twitter/follow/krishna__keshav?logo=twitter&style=for-the-badge" alt="krishna__keshav" /></a> </p>
+
 
 
 
 - 🌱 I’m currently learning **ASPEN**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Machine Learning&Hydrogen**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
