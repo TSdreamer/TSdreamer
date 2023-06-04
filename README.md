@@ -34,7 +34,7 @@ Support my open source projects by donating: [![PayPal](https://img.shields.io/b
 
 - 🌱 I’m currently learning **ASPEN**
 
-- 💬 Ask me about **Machine Learning&Hydrogen**
+- 💬 Ask me about **Energy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
