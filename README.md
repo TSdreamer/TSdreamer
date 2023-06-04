@@ -36,14 +36,6 @@ Support my open source projects by donating: [![PayPal](https://img.shields.io/b
 
 
 
-<br>
-
-<!-- style="display=flex;  max-width: 300px;" -->
- <br/> <div >
-
-
-
-<br/>
 
 
 
