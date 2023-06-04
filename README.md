@@ -56,18 +56,11 @@ Support my open source projects by donating: [![PayPal](https://img.shields.io/b
 </p>
 <!-- style="display=flex;  max-width: 300px;" -->
  <br/> <div >
-    <a  align="left" href="https://github.com/keshavch0udhary"><img alt="Krishna Keshav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavch0udhary&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a align="right" href="https://github.com/keshavch0udhary"><img alt="Krishna Keshav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keshavch0udhary&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></div>
-   
- 
-  <br/>
+
+
 
 <br/>
 
-<a href="https://github.com/KeshavCh0udhary"><img alt="Krishna Keshav Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=KeshavCh0udhary&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-
-<a align="right" href="https://github.com/keshavch0udhary?tab=followers"><img src="https://img.shields.io/github/followers/Keshavch0udhary?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
