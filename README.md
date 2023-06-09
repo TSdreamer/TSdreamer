@@ -7,7 +7,7 @@ I'm a Ph.D. candidate at the University of Warwick doing research on system mode
 
 Here on GitHub you can find research projects as well as open source software developed in my spare time.
 
-Support my open source projects by donating: [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/DavidStutz)](https://paypal.me/DavidStutz)
+Support my open source projects by donating: <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavch0udhary&label=Visitors&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
 
 ---
 
@@ -16,7 +16,7 @@ Support my open source projects by donating: [![PayPal](https://img.shields.io/b
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavch0udhary&label=Visitors&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
+
 
 <p align="left"> <a href="https://KeshavCh0udhary.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="krishna__keshav" /></a> </p>
 
