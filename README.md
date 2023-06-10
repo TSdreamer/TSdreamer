@@ -17,17 +17,20 @@ Here on GitHub you can find research projects as well as open source software de
 Currently, my open source code attracts  <img src="https://komarev.com/ghpvc/?username=keshavch0udhary&label=Visitors&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
 
 ---
-<div style="display: flex; align-items: start;">
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=default" style="display: block;" alt="small image">
-        <p>- 🌱 I’m currently learning **gProms**</p>
-        <p>- 💬 Ask me about **Energy** </p>
-    </div>
-</div>
 
-<img align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true" />
+
+
+
+
+
+
 <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+- 🌱 I’m currently learning **gProms**
+
+- 💬 Ask me about **Energy**  
 
 
 <br>
@@ -36,8 +39,7 @@ Currently, my open source code attracts  <img src="https://komarev.com/ghpvc/?us
 <br>
 <br>
 <br>
-<br>
-<h3 align="left">Contact with Me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/krishna__keshav" target="blank/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishna__keshav" height="30" width="40" target="blank/"/></a>
 <a href="https://linkedin.com/in/Krishna--Keshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna keshav" height="30" width="40" target="blank"/></a>
@@ -56,5 +58,3 @@ Currently, my open source code attracts  <img src="https://komarev.com/ghpvc/?us
 
 
 <br/>
-
-
