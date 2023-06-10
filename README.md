@@ -8,7 +8,7 @@
 <a href="https://drive.google.com/file/d/1vg8DZtDNgcc0W09V5fQXLjUpeOUFDUrz/view" target="blank"><img src="https://img.shields.io/badge/Resume_-000?style=for-the-badge&logo=files&logoColor=green" alt="Resume"/></a> </p>
 <a href="mailto:haotianteemo@outlook.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=pink" alt="Mail" /></a> 
 
-<img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" width="450" src="https://baltictransportjournal.com/assets/files/news/hydrogen-produksjon-ny-eng.gif">
 
 </div>
 
