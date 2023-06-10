@@ -10,7 +10,8 @@
 [![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1670361278~exp=1670361878~hmac=ba42ef1d98d78937f6f0369190d3bfa0626ec7df08263aee94553829489b5ccb)](https://www.linkedin.com/in/htma/) 
 
 </div>
-I'm a **Ph.D. candidate** at the **University of Warwick** doing research on **system modeling** and **machine learning**.
+
+I'm a **Ph.D. Candidate** at the **University of Warwick** doing research on **System Modeling** and **Machine Learning**.
 
 Here on **GitHub** you can find research projects as well as open source software developed in my spare time.
 
