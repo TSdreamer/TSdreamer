@@ -33,7 +33,6 @@
 
 
 
-<iframe src="https://giphy.com/embed/s9noGEnerOmvnKxk4J" width="480" height="221" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/s9noGEnerOmvnKxk4J">via GIPHY</a></p>
 
 <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
