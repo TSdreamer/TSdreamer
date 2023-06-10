@@ -4,6 +4,9 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htma/) 
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidstutz92) 
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.de/citations?user=TxEy3cwAAAAJ&hl=en) 
+<a href="https://KeshavCh0udhary.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="krishna__keshav" /></a> 
+<a href="https://drive.google.com/file/d/1vg8DZtDNgcc0W09V5fQXLjUpeOUFDUrz/view" target="blank"><img src="https://img.shields.io/badge/Resume_-000?style=for-the-badge&logo=files&logoColor=green" alt="Resume"/></a> </p>
+<a href="mailto:haotianteemo@outlook.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=pink" alt="Mail" /></a> 
 [![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1670361278~exp=1670361878~hmac=ba42ef1d98d78937f6f0369190d3bfa0626ec7df08263aee94553829489b5ccb)](https://www.linkedin.com/in/htma/) 
 
 </div>
@@ -22,15 +25,8 @@ Currently, my open source code attracts  <img src="https://komarev.com/ghpvc/?us
 
 
 
-<p align="left"> <a href="https://KeshavCh0udhary.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="krishna__keshav" /></a> </p>
 
 <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> <a href="https://drive.google.com/file/d/1vg8DZtDNgcc0W09V5fQXLjUpeOUFDUrz/view" target="blank"><img src="https://img.shields.io/badge/Resume_-000?style=for-the-badge&logo=files&logoColor=green" alt="Resume"/></a> </p>
-
-<p align="left"> <a href="mailto:haotianteemo@outlook.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=pink" alt="Mail" /></a> </p>
-
-
 
 - 🌱 I’m currently learning **gProms**
 
