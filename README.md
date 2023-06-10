@@ -18,9 +18,10 @@
 😄 Currently, my open source code attracts  <img src="https://komarev.com/ghpvc/?username=keshavch0udhary&label=Visitors&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
 
 ---
-<div  align="center">    
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=default" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true" />
+ 
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=default" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true" />
 
 
 </div>
