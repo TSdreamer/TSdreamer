@@ -17,13 +17,13 @@ Here on GitHub you can find research projects as well as open source software de
 Currently, my open source code attracts  <img src="https://komarev.com/ghpvc/?username=keshavch0udhary&label=Visitors&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
 
 ---
-
+- 🌱 I’m currently learning **gProms**
+- 💬 Ask me about **Energy** 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=default" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true" />
 
 
-<h3 align="left">- 🌱 I’m currently learning **gProms**</h3>
-<h3 align="left">- 💬 Ask me about **Energy**  </h3>
+
 
 
 
@@ -41,7 +41,7 @@ Currently, my open source code attracts  <img src="https://komarev.com/ghpvc/?us
 <br>
 <br>
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with Me:</h3>
 <p align="left">
 <a href="https://twitter.com/krishna__keshav" target="blank/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishna__keshav" height="30" width="40" target="blank/"/></a>
 <a href="https://linkedin.com/in/Krishna--Keshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna keshav" height="30" width="40" target="blank"/></a>
