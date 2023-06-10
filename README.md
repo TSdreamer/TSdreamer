@@ -20,7 +20,9 @@ Currently, my open source code attracts  <img src="https://komarev.com/ghpvc/?us
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=default" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true" />
+- 🌱 I’m currently learning **gProms**
 
+- 💬 Ask me about **Energy**  
 
 
 
@@ -28,9 +30,7 @@ Currently, my open source code attracts  <img src="https://komarev.com/ghpvc/?us
 
 <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **gProms**
 
-- 💬 Ask me about **Energy**  
 
 
 <br>
