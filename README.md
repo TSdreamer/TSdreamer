@@ -20,8 +20,8 @@
 ---
  
  <div  align="center">   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=default" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=default" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true" />
 
 
 </div>
@@ -33,21 +33,6 @@
 
 
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/krishna__keshav" target="blank/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishna__keshav" height="30" width="40" target="blank/"/></a>
