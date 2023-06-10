@@ -11,11 +11,11 @@
 
 </div>
 
-I'm a **Ph.D. Candidate** at the **University of Warwick** doing research on **System Modeling** and **Machine Learning**.
+👩‍💻 I'm a **Ph.D. Candidate** at the **University of Warwick** doing research on **System Modeling** and **Machine Learning**.
 
-Here on **GitHub**  /github/followers/:user?label=Follow you can find research projects as well as open source software developed in my spare time.
+🧠 Here on **GitHub** you can find research projects as well as open source software developed in my spare time.
 
-Currently, my open source code attracts  <img src="https://komarev.com/ghpvc/?username=keshavch0udhary&label=Visitors&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
+😄 Currently, my open source code attracts  <img src="https://komarev.com/ghpvc/?username=keshavch0udhary&label=Visitors&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
 
 ---
 
@@ -29,9 +29,7 @@ Currently, my open source code attracts  <img src="https://komarev.com/ghpvc/?us
 
 <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **gProms**
 
-- 💬 Ask me about **Energy**  
 
 
 <br>
