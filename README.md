@@ -23,19 +23,8 @@ Currently, my open source code attracts  <img src="https://komarev.com/ghpvc/?us
         <p>- 🌱 I’m currently learning **gProms**</p>
         <p>- 💬 Ask me about **Energy** </p>
     </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true" /> style="display: block; margin-left: 20px;" alt="large image">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true" /> 
 </div>
-
-
-
-
-
-
-
-
-
-
-
 
 <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
