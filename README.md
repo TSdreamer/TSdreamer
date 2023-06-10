@@ -53,5 +53,3 @@ Currently, my open source code attracts  <img src="https://komarev.com/ghpvc/?us
 <br/>
 
 
-Chat
-给LINER Chat发送消息
