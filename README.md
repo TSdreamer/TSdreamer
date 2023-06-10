@@ -21,10 +21,11 @@ Currently, my open source code attracts  <img src="https://komarev.com/ghpvc/?us
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=default" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true" />
 
-<p align="left">
- - 🌱 I’m currently learning **gProms**
-- 💬 Ask me about **Energy**  
-</p>
+
+<h3 align="left">- 🌱 I’m currently learning **gProms**</h3>
+<h3 align="left">- 💬 Ask me about **Energy**  </h3>
+
+
 
 
 
