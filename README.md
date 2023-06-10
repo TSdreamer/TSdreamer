@@ -23,18 +23,13 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=default" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true" />
 
 
 </div>
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 <br>
 <br>
