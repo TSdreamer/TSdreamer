@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](http://davidstutz.de/) 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htma/) 
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidstutz92) 
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidstutz92](https://twitter.com/mahaotian10) 
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.de/citations?user=TxEy3cwAAAAJ&hl=en) 
 <a href="https://KeshavCh0udhary.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="krishna__keshav" /></a> 
 <a href="https://drive.google.com/file/d/1vg8DZtDNgcc0W09V5fQXLjUpeOUFDUrz/view" target="blank"><img src="https://img.shields.io/badge/Resume_-000?style=for-the-badge&logo=files&logoColor=green" alt="Resume"/></a> </p>
@@ -43,7 +43,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/krishna__keshav" target="blank/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishna__keshav" height="30" width="40" target="blank/"/></a>
+<a href="https://twitter.com/mahaotian10" target="blank/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishna__keshav" height="30" width="40" target="blank/"/></a>
 <a href="https://linkedin.com/in/Krishna--Keshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna keshav" height="30" width="40" target="blank"/></a>
 <a href="https://instagram.com/keshav_ch0udhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keshav_ch0udhary" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Krishna__Keshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishna2000chy" height="30" width="40" /></a>
