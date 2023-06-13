@@ -31,7 +31,7 @@ I'm a passionate PhD candidate in Engineering, specializing in Machine Learning,
 
 ## 🎓 Education
 
-- **PhD in Engineering** (Expected 2026)  
+- **Ph.D in Engineering** (Expected 2026)  
   University of Warwick(UoW), Coventry, United Kingdom
 
 - **Research Assistant in Computer Science and Chemical Engineering** (2022)  
