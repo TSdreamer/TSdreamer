@@ -42,8 +42,8 @@ I'm a passionate PhD candidate in Engineering, specializing in Machine Learning,
   
 - **Bachelor in Engineering** (2019)  
   Southeast University, Nanjing, China
-
-
+<!--
+-->
 
 
 🧠 Here on **GitHub** you can find research projects as well as open source software developed in my spare time.
