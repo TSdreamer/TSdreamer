@@ -28,7 +28,7 @@ I'm a passionate PhD candidate in Engineering, specializing in Machine Learning,
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, Docker, VS Code, Jupyter Notebook
 -->
-
+<!--
 ## 🎓 Education
 
 - **PhD in Engineering** (Expected 2026)  
@@ -42,7 +42,7 @@ I'm a passionate PhD candidate in Engineering, specializing in Machine Learning,
   
 - **Bachelor in Engineering** (2019)  
   Southeast University, Nanjing, China
-<!--
+
 -->
 
 
