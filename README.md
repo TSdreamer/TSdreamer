@@ -11,7 +11,7 @@
 <div  align="center">    
 <img align="center" alt="Coding" width="450" src="https://baltictransportjournal.com/assets/files/news/hydrogen-produksjon-ny-eng.gif">
 </div>
-I'm a passionate PhD candidate in Engineering, specializing in Machine Learning, Energy Modelling and Hydrogen Production Simulation.
+I'm a passionate Ph.D candidate in Engineering, specializing in Machine Learning, Energy Modelling and Hydrogen Production Simulation.
 
 ## 🔬 Research Interests
 
