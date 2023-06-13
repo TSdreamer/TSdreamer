@@ -46,9 +46,9 @@
 
 ## 🌐 Personal Description
 
-🧠 Here on **GitHub** you can find research projects as well as open source software developed in my spare time.
+- 🧠 Here on **GitHub** you can find research projects as well as open source software developed in my spare time.
 
-😄 Currently, my open source code attracts  <img src="https://komarev.com/ghpvc/?username=keshavch0udhary&label=Visitors&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
+- 😄 Currently, my **open-source-projects** attract  <img src="https://komarev.com/ghpvc/?username=keshavch0udhary&label=Visitors&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
 
 ---
  
