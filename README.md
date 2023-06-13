@@ -1,3 +1,41 @@
+# Hi there, I'm Haotian (Kirin) Ma (马皓天)! 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=lialittis&color=blue)
+
+I'm a passionate PhD candidate in Engineering, specializing in Machine Learning, Energy Modelling and Hydrogen Production Simulation.
+
+## 🔬 Research Interests
+
+- Renewable Hydrogen Production
+- Machine Learning
+- System Modelling
+- Electrochemistry Modelling
+
+<!--
+## 🔧 Skills
+
+- **Languages:** C/C++, Python, OCAML
+- **Frameworks:** React, Node.js, Express.js, Django
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools:** Git, Docker, VS Code, Jupyter Notebook
+-->
+
+## 🎓 Education
+
+- **PhD in Engineering** (Expected 2026)  
+  University of Warwick(UoW), Coventry, United Kingdom
+
+- **Research Assistant in Computer Science and Chemical Engineering** (2022)  
+  University of Birmingham, Birmingham, United Kingdom
+
+- **Master of Science in Sustainable Energy Engineering** (2021)  
+  University of Nottingham, Nottingham, United Kingdom
+  
+- **Bachelor in Engineering** (2019)  
+  Southeast University, Nanjing, China
+
+
+
 <div  align="center">    
 
 [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](http://davidstutz.de/) 
