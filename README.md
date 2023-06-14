@@ -20,7 +20,7 @@
 - Machine Learning
 - System Modelling
 - Electrochemistry Modelling
-
+- Comsol & Aspen
 <!--
 ## 🔧 Skills
 
