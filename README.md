@@ -16,7 +16,7 @@
 
 ## 🔬 Research Interests
 
-- Renewable Hydrogen Production
+- Sustainable Energy Engineering
 - Machine Learning
 - System Modelling
 - Electrochemistry Modelling
