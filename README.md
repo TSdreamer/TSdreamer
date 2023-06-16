@@ -58,7 +58,7 @@
 - **HUAWEI Nuremberg Research Center**   
   Energy Research Project Manager, Nuremberg, Germany
   
-- **XPeng Europe**
+- **XPeng Europe**    
   Business Analyst, Amsterdam, Netherlands
 
 ## 🌐 Personal Description
