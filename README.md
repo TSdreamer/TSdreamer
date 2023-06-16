@@ -32,7 +32,7 @@
 - **Software:** COMSOL, Aspen, gProms
 -->
 
-## 🎓 Education
+## 🎓 Education Background
 
 - **Ph.D. in Engineering** (Expected 2026)  
   University of Warwick(UoW), Coventry, United Kingdom
@@ -51,18 +51,18 @@
 - **Research Assistant** (Expected 2026)  
   Warwick Manufacturing Group, Coventry, United Kingdom
 
-- **Research Assistant in Computer Science and Chemical Engineering** (2022)  
-  University of Birmingham, Birmingham, United Kingdom
+- **Energy Research Project Manager** (2022)  
+  Global Energy Interconnection Research Institute, Berlin, German
 
 - **Energy Research Project Manager** (2021)  
-  HUAWEI Nuremberg Research Center, Munich, Germany
+  HUAWEI Nuremberg Research Center, Nuremberg, Germany
   
 - **Business Analyst in XPeng Europe** (2020.07-2020.10)  
   XPeng Europe, Amsterdam, Netherlands
 
 ## 🌐 Personal Description
 
-- 🧠 Here on **GitHub** you can find research projects as well as open source software developed in my spare time.
+- 🧠 Here on **GitHub** you can find research projects as well as open-source software developed in my spare time.
 
 - 😄 Currently, my **open-source-projects** attract  <img src="https://komarev.com/ghpvc/?username=keshavch0udhary&label=Visitors&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
 
