@@ -17,10 +17,11 @@
 ## 🔬 Research Interests
 
 - Sustainable Energy Engineering
+- Renewable Hydrogen Production
 - Machine Learning
 - System Modelling
 - Electrochemistry Modelling
-- Comsol & Aspen
+
 <!--
 ## 🔧 Skills
 
