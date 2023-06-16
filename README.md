@@ -46,6 +46,20 @@
 - **Bachelor in Engineering** (2019)  
   Southeast University, Nanjing, China
 
+
+## 🎓 Working Experience
+- **Ph.D. in Engineering** (Expected 2026)  
+  University of Warwick(UoW), Coventry, United Kingdom
+
+- **Research Assistant in Computer Science and Chemical Engineering** (2022)  
+  University of Birmingham, Birmingham, United Kingdom
+
+- **Master of Science in Sustainable Energy Engineering** (2021)  
+  University of Nottingham, Nottingham, United Kingdom
+  
+- **Bachelor in Engineering** (2019)  
+  Southeast University, Nanjing, China
+
 ## 🌐 Personal Description
 
 - 🧠 Here on **GitHub** you can find research projects as well as open source software developed in my spare time.
