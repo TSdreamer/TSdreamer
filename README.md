@@ -70,10 +70,10 @@
 ---
  
 <div  align="center">   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lialittis&show_icons=true&theme=dark)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=default" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=dark" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=dark&show_icons=true" />
 
 
 </div>
