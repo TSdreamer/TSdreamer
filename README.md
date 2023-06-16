@@ -48,17 +48,17 @@
 
 
 ## 🎓 Working Experience
-- **Ph.D. in Engineering** (Expected 2026)  
-  University of Warwick(UoW), Coventry, United Kingdom
+- **Research Assistant** (Expected 2026)  
+  Warwick Manufacturing Group, Coventry, United Kingdom
 
 - **Research Assistant in Computer Science and Chemical Engineering** (2022)  
   University of Birmingham, Birmingham, United Kingdom
 
-- **Master of Science in Sustainable Energy Engineering** (2021)  
-  University of Nottingham, Nottingham, United Kingdom
+- **Energy Research Project Manager** (2021)  
+  HUAWEI Nuremberg Research Center, Munich, Germany
   
-- **Bachelor in Engineering** (2019)  
-  Southeast University, Nanjing, China
+- **Business Analyst in XPeng Europe** (2020.07-2020.10)  
+  XPeng Europe, Amsterdam, Netherlands
 
 ## 🌐 Personal Description
 
