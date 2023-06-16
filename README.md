@@ -48,17 +48,17 @@
 
 
 ## 🎓 Working Experience
-- **Research Assistant** (2023.03-2023.07)  
-  Warwick Manufacturing Group, Coventry, United Kingdom
+- **Warwick Manufacturing Group** (2023.03-2023.07)  
+  Research Assistant, Coventry, United Kingdom
 
-- **Energy Research Project Manager** (2021.10-2022.12)  
-  Global Energy Interconnection Research Institute, Berlin, German
+- **Global Energy Interconnection Research Institute** (2021.10-2022.12)  
+  Energy Research Project Manager, Berlin, German
 
-- **Energy Research Project Manager** (2022.08-2023.03)  
-  HUAWEI Nuremberg Research Center, Nuremberg, Germany
+- **HUAWEI Nuremberg Research Center** (2022.08-2023.03)  
+  Energy Research Project Manager, Nuremberg, Germany
   
-- **Business Analyst in XPeng Europe** (2020.07-2020.10)  
-  XPeng Europe, Amsterdam, Netherlands
+- **XPeng Europe** (2020.07-2020.10)  
+  Business Analyst, Amsterdam, Netherlands
 
 ## 🌐 Personal Description
 
