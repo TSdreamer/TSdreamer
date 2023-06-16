@@ -48,17 +48,18 @@
 
 
 ## 🎓 Working Experience
-- **Warwick Manufacturing Group, Coventry, United Kingdom**  
-  Research Assistant
 
-- **Global Energy Interconnection Research Institute, Berlin, German**   
-  Energy Research Project Manager
+- **Warwick Manufacturing Group**      
+  Research Assistant, Coventry, United Kingdom
 
-- **HUAWEI Nuremberg Research Center, Nuremberg, Germany**   
-  Energy Research Project Manager
+- **Global Energy Interconnection Research Institute**   
+  Energy Research Project Manager, Berlin, German
+
+- **HUAWEI Nuremberg Research Center**   
+  Energy Research Project Manager, Nuremberg, Germany
   
-- **XPeng Europe, Amsterdam, Netherlands**
-  Business Analyst
+- **XPeng Europe**
+  Business Analyst, Amsterdam, Netherlands
 
 ## 🌐 Personal Description
 
