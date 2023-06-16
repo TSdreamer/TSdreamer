@@ -28,6 +28,7 @@
 - **Frameworks:** React, Node.js, Express.js, Django
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, Docker, VS Code, Jupyter Notebook
+- **Software:** COMSOL, Aspen, VisioStudio
 -->
 
 ## 🎓 Education
