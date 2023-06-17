@@ -43,7 +43,7 @@
 - **Master of Science in Sustainable Energy Engineering** (2021)  
   University of Nottingham, Nottingham, United Kingdom
   
-- **Bachelor in Engineering** (2019)  
+- **Bachelor of Engineering** (2019)  
   Southeast University, Jiangsu, China
 
 
