@@ -44,7 +44,7 @@
   University of Nottingham, Nottingham, United Kingdom
   
 - **Bachelor of Engineering** (2019)  
-  Southeast University, Jiangsu, China
+  Southeast University, Jiangsu, China 
 
 
 ## 🎓 Working Experience
