@@ -1,4 +1,4 @@
-<h1 align="center">I'm Haotian (Kirin) Ma ! :wink:</h1>
+<h1 align="center">I'm Haotian (Kirin) Ma ! :scientist:</h1>
 
 
 <div  align="center">    
