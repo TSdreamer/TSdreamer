@@ -12,7 +12,8 @@
 
 
 <div  align="center">    
-<img align="center" alt="Coding" width="450" src="https://baltictransportjournal.com/assets/files/news/hydrogen-produksjon-ny-eng.gif">
+<img align="left" alt="Coding" width="450" src="https://baltictransportjournal.com/assets/files/news/hydrogen-produksjon-ny-eng.gif">
+<img align="right" alt="Coding" width="450" src="https://www.molbnl.it/sites/default/files/inline-images/M3fig1.jpg">
 </div>
 
 
