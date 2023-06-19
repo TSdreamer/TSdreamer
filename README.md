@@ -1,6 +1,6 @@
 # Hi there, I'm Haotian (Kirin) Ma ! 👋
 
-<div  align="left">    
+<div  align="center">    
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htma/) 
@@ -8,11 +8,12 @@
 <a href="https://KeshavCh0udhary.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="krishna__keshav" /></a> 
 <a href="mailto:haotianteemo@outlook.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=pink" alt="Mail" /></a> 
 </div>
-<div  align="left">    
+- I'm a passionate **Ph.D. Candidate** in **Engineering**, specializing in **Machine Learning**, **Energy Modelling** and **Hydrogen Production Simulation**.
+<div  align="center">    
 <img align="center" alt="Coding" width="450" src="https://baltictransportjournal.com/assets/files/news/hydrogen-produksjon-ny-eng.gif">
 </div>
 
-- I'm a passionate **Ph.D. Candidate** in **Engineering**, specializing in **Machine Learning**, **Energy Modelling** and **Hydrogen Production Simulation**.
+
 
 ## 🔬 Research Focus
 
