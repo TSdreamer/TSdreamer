@@ -16,9 +16,9 @@
 <img align="right" alt="Coding" width="450" src="https://www.molbnl.it/sites/default/files/inline-images/M3fig1.jpg">
 </div>
 
-
-
-
+\n
+\n
+\n
 
 - I'm a passionate **Ph.D. Candidate** in **Engineering**, specializing in **Machine Learning**, **Energy Modelling** and **Hydrogen Production Simulation**.
 
