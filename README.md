@@ -3,7 +3,6 @@
 
 <div  align="center">    
 
-
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htma/) 
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahaotian10) 
 <a href="https://KeshavCh0udhary.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="krishna__keshav" /></a> 
@@ -11,16 +10,17 @@
 </div>
 
 
-<div  align="center">    
-<img align="left" alt="Coding" width="450" src="https://baltictransportjournal.com/assets/files/news/hydrogen-produksjon-ny-eng.gif">
-<img align="right" alt="Coding" width="450" src="https://www.molbnl.it/sites/default/files/inline-images/M3fig1.jpg">
-</div>
+<p align="center">
+  <img src="https://baltictransportjournal.com/assets/files/news/hydrogen-produksjon-ny-eng.gif" width="450" />
+  <img src="https://www.molbnl.it/sites/default/files/inline-images/M3fig1.jpg" width="450" /> 
+</p>
 
-\n
-\n
-\n
 
 - I'm a passionate **Ph.D. Candidate** in **Engineering**, specializing in **Machine Learning**, **Energy Modelling** and **Hydrogen Production Simulation**.
+
+
+
+
 
 
 ## 🔬 Research Focus
