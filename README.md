@@ -1,6 +1,6 @@
 # Hi there, I'm Haotian (Kirin) Ma ! 👋
 
-<div  align="center">    
+<div  align="left">    
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htma/) 
