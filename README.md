@@ -10,10 +10,10 @@
 </div>
 
 
-<p align="center">
+<div style="display: flex; align-items: flex-end;">
   <img src="https://baltictransportjournal.com/assets/files/news/hydrogen-produksjon-ny-eng.gif" width="450" />
   <img src="https://www.molbnl.it/sites/default/files/inline-images/M3fig1.jpg" width="450" /> 
-</p>
+</div>
 
 
 - I'm a passionate **Ph.D. Candidate** in **Engineering**, specializing in **Machine Learning**, **Energy Modelling** and **Hydrogen Production Simulation**.
