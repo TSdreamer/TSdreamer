@@ -26,10 +26,11 @@
 ## 🔧 Skills
 
 - **Languages:** C/C++, Python, OCAML
-- **Frameworks:** React, Node.js, Express.js, Django
+- **Frameworks:** React, Node.js, Express.js, Django,KIVY
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, Docker, VS Code, Jupyter Notebook
 - **Software:** COMSOL, Aspen, gProms
+- **Experiment:** XRD, SEM, TEM and other Material Modelling Experiments
 -->
 
 ## 🎓 Education Background
