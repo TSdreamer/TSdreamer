@@ -1,4 +1,4 @@
-<h1 align="center">I'm Haotian (Kirin) Ma !</h1>
+<h1 align="center">I'm Haotian (Kirin) Ma ! :wink:</h1>
 
 
 <div  align="center">    
@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htma/) 
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahaotian10) 
-<a href="https://KeshavCh0udhary.github.io" target="blank"><img src="[https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="krishna__keshav](https://www.linkedin.com/in/htma/)" /></a> 
+<a href="https://KeshavCh0udhary.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="krishna__keshav" /></a> 
 <a href="mailto:haotianteemo@outlook.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=pink" alt="Mail" /></a> 
 </div>
 
@@ -82,7 +82,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=dark" />
 
 </div>
-
 
 
 
