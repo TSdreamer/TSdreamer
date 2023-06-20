@@ -45,7 +45,7 @@
 - **Experiment:** XRD, SEM, TEM and other Material Modelling Experiments
 -->
 
-## 🎓 Education Background
+## :man_student: Education Background
 
 - **Ph.D. in Engineering** (Expected 2026)  
   University of Warwick(UoW), Coventry, United Kingdom
@@ -60,7 +60,7 @@
   Southeast University, Jiangsu, China 
 
 
-## 🎓 Working Experience
+## :man_judge: Working Experience
 
 - **Warwick Manufacturing Group**      
   Research Assistant, Coventry, United Kingdom
