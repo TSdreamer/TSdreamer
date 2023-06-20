@@ -1,4 +1,4 @@
-<h1 align="center">😉I'm Haotian (Kirin) Ma ! :mortar_board:</h1>
+<h1 align="center">:Hi:I'm Haotian (Kirin) Ma ! </h1>
 
 
 <div  align="center">    
