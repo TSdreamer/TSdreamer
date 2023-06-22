@@ -19,10 +19,7 @@
 
 
 
-- I'm a passionate **Ph.D. Candidate** in **Engineering**, specializing in **Machine Learning**, **Energy Modelling** and **Hydrogen Production Simulation**.
-
-
-
+- I'm a passionate **Ph.D. Candidate** in **Engineering**, specializing in **Machine Learning**, **Energy Modelling**, and **Hydrogen Production Simulation**.
 
 
 
