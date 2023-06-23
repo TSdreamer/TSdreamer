@@ -97,7 +97,7 @@
 
 ## 😈 Highlighted Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=2D_ALDIC&layout=compact&theme=dark)](https://github.com/jyang526843/2D_ALDIC](https://github.com/TSdreamer/Gradient-Boosting-Tree)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyang526843&repo=2D_FE_Global_DIC&layout=compact&theme=dark)](https://github.com/jyang526843/2D_FE_Global_DIC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranckLab&repo=ALDVC&layout=compact&theme=dark)](https://github.com/FranckLab/ALDVC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyang526843&repo=SerialTrack&layout=compact&theme=dark)](https://github.com/jyang526843/SerialTrack)
