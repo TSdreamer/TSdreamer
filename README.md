@@ -74,7 +74,7 @@
 ---
  
 <p align="center">
-    <div style="display: flex; justify-content: left;">
+    <div style="display: flex; justify-content: center;">
   <a href="https://github.com/davidstutz">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=gruvbox&show_icons=true" alt="Top Langs" height="450px">
   </a>
