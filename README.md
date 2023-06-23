@@ -94,9 +94,9 @@
 ## 😈 Highlighted Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyang526843&repo=2D_FE_Global_DIC&layout=compact&theme=dark)](https://github.com/jyang526843/2D_FE_Global_DIC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranckLab&repo=ALDVC&layout=compact&theme=dark)](https://github.com/FranckLab/ALDVC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyang526843&repo=SerialTrack&layout=compact&theme=dark)](https://github.com/jyang526843/SerialTrack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InertialMicrocavitationRheometry&repo=IMR_simple&layout=compact&theme=dark)](https://github.com/InertialMicrocavitationRheometry/IMR_simple)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranckLab&repo=STAQ-DIC&layout=compact&theme=dark)](https://github.com/FranckLab/STAQ-DIC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-energy&repo=tsu-app&layout=compact&theme=dark)](https://github.com/TS-energy/tsu-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-energy&repo=Simscape-Battery-Library&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree](https://github.com/TS-energy/Simscape-Battery-Library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
  
