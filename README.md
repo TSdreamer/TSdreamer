@@ -74,12 +74,12 @@
 ---
  
 <p align="center">
-    <div style="display: flex; justify-content: center;">
+    <div style="display: flex; justify-content: left;">
   <a href="https://github.com/davidstutz">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=gruvbox&show_icons=true" alt="Top Langs" height="450px">
   </a>
      </div>
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: right;">
  <a href="https://github.com/TSdreamer">
     <img src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=gruvbox" alt="Github Stats" height="225px">
  </a>
