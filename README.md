@@ -90,8 +90,8 @@
 
 
 <p align="center">
-    <a href="https://github.com/KeshavCh0udhary/">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Krishna Keshav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KeshavCh0udhary&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/TSdreamer/">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Haotian(Kirin) Ma's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TSdreamer&theme=gruvbox&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
