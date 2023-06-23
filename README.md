@@ -75,19 +75,22 @@
  
 <p align="center">
     <div style="display: flex; justify-content: center;">
-        <a href="https://github.com/davidstutz">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=gruvbox&show_icons=true" alt="Top Langs" height="350px">
-        </a>
-        <div>
+        <div style="flex: 1;">
+            <a href="https://github.com/davidstutz">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=gruvbox&show_icons=true" alt="Top Langs" width="100%" height="400px">
+            </a>
+        </div>
+        <div style="flex: 1;">
             <a href="https://github.com/TSdreamer">
-                <img src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=gruvbox" alt="Github Stats" height="175px">
+                <img src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=gruvbox" alt="Github Stats" width="100%" height="200px">
             </a>
             <a href="https://github.com/TSdreamer">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=TSdreamer&theme=gruvbox&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak Stats" height="175px">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=TSdreamer&theme=gruvbox&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak Stats" width="100%" height="200px">
             </a>
         </div>
     </div>
 </p>
+
 
 
 
