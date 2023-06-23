@@ -77,13 +77,13 @@
     <div style="display: flex; justify-content: center;">
 
  <a href="https://github.com/TSdreamer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TSdreamer&theme=great-gatsby&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak Stats" height="225px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TSdreamer&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak Stats" height="225px">
  </a>
   <a href="https://github.com/davidstutz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=great-gatsby&show_icons=true" alt="Top Langs" height="225px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=vision-friendly-dark&show_icons=true" alt="Top Langs" height="225px">
   </a>
   <a href="https://github.com/TSdreamer">
-    <img src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=great-gatsby" alt="Github Stats"  height="248px">
+    <img src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=vision-friendly-dark" alt="Github Stats"  height="248px">
  </a>
     </div>
 </p>
