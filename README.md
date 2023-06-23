@@ -81,11 +81,9 @@
             <a href="https://github.com/TSdreamer">
                 <img src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=gruvbox" alt="Github Stats" height="200px">
             </a>
-
             <a href="https://github.com/TSdreamer">
                 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TSdreamer&theme=gruvbox&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak Stats" height="200px">
             </a>
-
     </div>
 </p>
 
