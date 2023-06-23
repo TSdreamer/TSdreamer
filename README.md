@@ -96,7 +96,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-energy&repo=tsu-app&layout=compact&theme=dark)](https://github.com/TS-energy/tsu-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-energy&repo=Simscape-Battery-Library&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree](https://github.com/TS-energy/Simscape-Battery-Library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-energy&repo=Simscape-Battery-Library&layout=compact&theme=dark)](https://github.com/TS-energy/Simscape-Battery-Library)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
  
