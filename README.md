@@ -15,13 +15,7 @@
   <img src="https://i.imgur.com/JlXPELW.jpg" width="400" /> 
 </div>
 
-
-
-
-
 - I'm a passionate **Ph.D. Candidate** in **Engineering**, specializing in **Machine Learning**, **Energy Modelling**, and **Hydrogen Production Simulation**.
-
-
 
 ## 🔬 Research Focus
 
@@ -82,7 +76,8 @@
 <p align="center">
   <a href="https://github.com/davidstutz">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=gruvbox&show_icons=true" alt="Top Langs" height="180px">
-  < href="https://github.com/TSdreamer">
+   </a>
+  <a href="https://github.com/TSdreamer">
     <img src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=gruvbox" alt="Github Stats" height="180px">
   </a>
   <a href="https://github.com/TSdreamer">
