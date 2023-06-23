@@ -78,10 +78,10 @@
         <a href="https://github.com/davidstutz">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=gruvbox&show_icons=true" alt="Top Langs" height="400px">
         </a>
-        <div>
             <a href="https://github.com/TSdreamer">
                 <img src="https://github-readme-stats.vercel.app/api?username=TSdreamer&count_private=true&show_icons=false&theme=gruvbox" alt="Github Stats" height="200px">
             </a>
+          <div>
             <a href="https://github.com/TSdreamer">
                 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TSdreamer&theme=gruvbox&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak Stats" height="200px">
             </a>
