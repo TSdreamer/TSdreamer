@@ -60,7 +60,7 @@
   Energy Research Project Manager, Berlin, German
 
 - **HUAWEI Nuremberg Research Center**   
-  Energy Research Project Manager, Nuremberg, Germany
+  Energy Research Project Manager, Nuremberg, German
   
 - **XPeng Europe**    
   Business Analyst, Amsterdam, Netherlands
