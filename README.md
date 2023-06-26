@@ -32,7 +32,7 @@
 - **Frameworks:** React, Node.js, Express.js, Django,KIVY
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, Docker, VS Code, Jupyter Notebook
-- **Software:** COMSOL, Aspen, gProms, CFD
+- **Software:** COMSOL, Aspen, gProms, CFD 
 - **Experiment:** XRD, SEM, TEM and other Material Modelling Experiments
 -->
 
