@@ -17,9 +17,7 @@
 
 - I'm a passionate **Ph.D. Candidate** in **Engineering**, specializing in **Machine Learning**, **Energy Modelling**, and **Hydrogen Production Simulation**.
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TSdreamer" alt="TSdreamer" /></a>
-</p>
+
 
 
 
@@ -94,7 +92,9 @@
  </a>
     </div>
 </p>
-
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TSdreamer" alt="TSdreamer" /></a>
+</p>
 ---
 
 ## :trophy: Highlighted Repositories
