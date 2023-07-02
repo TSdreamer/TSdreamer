@@ -19,9 +19,6 @@
 
 
 
-<!--   profile-green-animate -->
-![](./profile-green-animate.svg)
-
 
 ## 🔬 Research Focus
 
@@ -95,6 +92,11 @@
  </a>
     </div>
 </p>
+
+
+
+<!--   profile-green-animate -->
+![](./profile-green-animate.svg)
 
 
 
