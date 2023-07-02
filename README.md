@@ -24,8 +24,7 @@
 - Machine Learning
 - System Modelling
 - Electrochemistry Modelling
-
-<!--
+- 
 ## 🔧 Skills
 
 - **Languages:** C/C++, Python, OCAML
