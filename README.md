@@ -32,9 +32,7 @@
 - **Tools:** Git, Docker, VS Code, Jupyter Notebook
 - **Software:** COMSOL, Aspen, gProms, CFD 
 - **Experiment:** XRD, SEM, TEM and other Material Modelling Experiments
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
+  
 ## :man_student: Education Background
 
 - **Ph.D. in Engineering** (Expected 2026)  
