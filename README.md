@@ -26,15 +26,12 @@
 - Electrochemistry Modelling
   
 ## 🔧 Skills
-
 - **Languages:** C/C++, Python, OCAML
 - **Frameworks:** React, Node.js, Express.js, Django,KIVY
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, Docker, VS Code, Jupyter Notebook
 - **Software:** COMSOL, Aspen, gProms, CFD 
 - **Experiment:** XRD, SEM, TEM and other Material Modelling Experiments
--->
-
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
