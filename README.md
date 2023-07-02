@@ -85,17 +85,14 @@
 </p>
 
 
-
-<!--   profile-green-animate -->
-![](./profile-green-animate.svg)
-
-
-
-
-
-
 ## :trophy: Highlighted Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Machine_Learning_MEA_Optimization&layout=compact&theme=dark)]( https://github.com/TSdreamer/Machine_Learning_MEA_Optimization)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=awesome-machine-learning&layout=compact&theme=dark)](https://github.com/TSdreamer/awesome-machine-learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-energy&repo=Simscape-Battery-Library&layout=compact&theme=dark)](https://github.com/TS-energy/Simscape-Battery-Library)
+
+
+
+<!--   profile-green-animate -->
+![](./profile-green-animate.svg)
+
