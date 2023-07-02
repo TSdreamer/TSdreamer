@@ -96,7 +96,7 @@
 </p>
 
 <!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-green-animate.svg)
 
 
 
