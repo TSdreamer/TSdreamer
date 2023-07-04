@@ -1,4 +1,4 @@
-<h1 align="center">:muscle:Hi , I'm Haotian (Kirin) MA ! </h1>
+<h1 align="center">:muscle:Hi Everyone, I'm Haotian (Kirin) MA ! </h1>
 
 
 <div  align="center">    
