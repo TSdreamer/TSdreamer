@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Haotian (Kirin) MA  </h1>
+<h1 align="center">:wave Hi, I'm Haotian (Kirin) MA  </h1>
 
 
 <div  align="center">    
