@@ -136,15 +136,15 @@
        "coordinates": [108.9398, 34.3416]
      }
    }
-{
-  "type": "Feature",
-  "properties": {
+  {
+    "type": "Feature",
+    "properties": {
     "City": "Shenzhen"
-  },
-  "geometry": {
+    },
+    "geometry": {
     "type": "Point",
     "coordinates": [114.0579, 22.5431]
-
+   }
  ]
 }
 
