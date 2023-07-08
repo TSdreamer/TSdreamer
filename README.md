@@ -108,22 +108,37 @@
  "features": [
    {
      "type": "Feature",
-     "id": 1,
      "properties": {
-       "ID": 0
+       "City": "Beijing"
      },
      "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [23.5,53.9],
-             [32.6,52.6]
-         ]
-       ]
+       "type": "Point",
+       "coordinates": [116.4074, 39.9042]
+     }
+   },
+   {
+     "type": "Feature",
+     "properties": {
+       "City": "Shanghai"
+     },
+     "geometry": {
+       "type": "Point",
+       "coordinates": [121.4737, 31.2304]
+     }
+   },
+   {
+     "type": "Feature",
+     "properties": {
+       "City": "Xi'an"
+     },
+     "geometry": {
+       "type": "Point",
+       "coordinates": [108.9398, 34.3416]
      }
    }
  ]
 }
+
 
 ```
 
