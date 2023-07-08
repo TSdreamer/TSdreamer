@@ -92,10 +92,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-energy&repo=Simscape-Battery-Library&layout=compact&theme=dark)](https://github.com/TS-energy/Simscape-Battery-Library)
 
 
-
-
-
-
 ```
 
 
