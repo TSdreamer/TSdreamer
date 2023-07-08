@@ -146,16 +146,7 @@
         "coordinates": [108.9398, 34.3416]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "City": "London, UK"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-0.1276, 51.5074]
-      }
-    }
+
   ]
 }
 
