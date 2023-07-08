@@ -96,46 +96,29 @@
 
 
 
-
-
-<!-- Belarus - My Home-->
 {
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "properties": {
-       "City": "Beijing"
-     },
-     "geometry": {
-       "type": "Point",
-       "coordinates": [116.4074, 39.9042]
-     }
-   },
-   {
-     "type": "Feature",
-     "properties": {
-       "City": "Shanghai"
-     },
-     "geometry": {
-       "type": "Point",
-       "coordinates": [121.4737, 31.2304]
-     }
-   },
-   {
-     "type": "Feature",
-     "properties": {
-       "City": "Xi'an"
-     },
-     "geometry": {
-       "type": "Point",
-       "coordinates": [108.9398, 34.3416]
-     }
-   }
- ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [100,180],
+            [100,150],
+            [120,150],
+            [100,180]
+          ]
+        ]
+      }
+    }
+  ]
 }
-
-
 
 
 ```
