@@ -144,10 +144,9 @@
     "geometry": {
     "type": "Point",
     "coordinates": [114.0579, 22.5431]
-   }
- ]
-}
-
+    }
+ }
+]
 
 ```
 
