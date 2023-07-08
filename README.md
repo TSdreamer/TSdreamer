@@ -96,31 +96,6 @@
 
 
 
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [100,180],
-            [100,150],
-            [120,150],
-            [100,180]
-          ]
-        ]
-      }
-    }
-  ]
-}
-
-
 ```
 
 
