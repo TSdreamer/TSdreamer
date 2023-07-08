@@ -129,6 +129,16 @@
     {
       "type": "Feature",
       "properties": {
+        "City": "Shenzhen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.0579, 22.5431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "City": "Xi'an"
       },
       "geometry": {
@@ -139,11 +149,11 @@
     {
       "type": "Feature",
       "properties": {
-        "City": "Shenzhen"
+        "City": "London, UK"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [114.0579, 22.5431]
+        "coordinates": [-0.1276, 51.5074]
       }
     }
   ]
