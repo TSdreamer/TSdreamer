@@ -68,6 +68,7 @@
 
 - 😄 Currently, my **open-source-projects** attract : <img src="https://komarev.com/ghpvc/?username=TSdreamer&label=Visitors&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
 
+<img src="https://komarev.com/ghpvc/?username=TSdreamer&label=Profile%20views&color=0e75b6&style=flat" alt="goktugkayra" /> 
 
 <p align="center">
     <div style="display: flex; justify-content: center;">
@@ -90,14 +91,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=awesome-machine-learning&layout=compact&theme=dark)](https://github.com/TSdreamer/awesome-machine-learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-energy&repo=Simscape-Battery-Library&layout=compact&theme=dark)](https://github.com/TS-energy/Simscape-Battery-Library)
-
-
-
-
-
-
-
-
 
 
 <!-- Belarus - My Home-->
