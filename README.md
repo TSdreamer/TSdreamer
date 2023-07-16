@@ -23,6 +23,7 @@
 - Renewable Hydrogen Production
 - Machine Learning
 - System Modelling
+- Process Simulation
 - Electrochemistry Modelling
   
 ## 🔧 Skills
