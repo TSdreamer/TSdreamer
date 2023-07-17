@@ -1,7 +1,7 @@
-<h1 align="center">:wave: Hi there , I'm Haotian (Kirin) MA  </h1>
+<h1 align="left">:wave: Hi there , I'm Haotian (Kirin) MA  </h1>
 
 
-<div  align="center">    
+<div  align="left">    
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htma/) 
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahaotian10) 
