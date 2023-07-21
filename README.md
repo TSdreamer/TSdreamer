@@ -80,7 +80,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=gruvbox&show_icons=true" alt="Top Langs" height="225px">
   </a>
   <a href="https://github.com/TSdreamer">
-    <img src="https://github-readme-stats.vercel.app/api?username=TSdreamer&theme=gruvbox" alt="Github Stats"  height="248px">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=TSdreamer&theme=gruvbox&show_icons=true" alt="Github Stats"  height="248px">
  </a>
     </div>
 </p>
