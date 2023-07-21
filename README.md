@@ -91,7 +91,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=awesome-machine-learning&layout=compact&theme=dark)](https://github.com/TSdreamer/awesome-machine-learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-energy&repo=Simscape-Battery-Library&layout=compact&theme=dark)](https://github.com/TS-energy/Simscape-Battery-Library)
-(https://github-contribution-stats.vercel.app/api/?username=TSdreamer)](https://github.com/TSdreamer/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=torvalds)](https://github.com/LordDashMe/github-contribution-stats/)
 
 <!-- Belarus - My Home-->
   
