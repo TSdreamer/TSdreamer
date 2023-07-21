@@ -122,6 +122,17 @@
     {
       "type": "Feature",
       "properties": {
+        "City": "London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1276,51.5072]
+
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "City": "Shenzhen"
       },
       "geometry": {
