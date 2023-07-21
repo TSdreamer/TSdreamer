@@ -80,7 +80,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=gruvbox&show_icons=true" alt="Top Langs" height="225px">
   </a>
   <a href="https://github.com/TSdreamer">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=TSdreamer&theme=gruvbox&show_icons=true" alt="Github Stats"  height="248px">
+    <img src="https://github-readme-stats.vercel.app/api/?username=TSdreamer&theme=gruvbox&show_icons=true" alt="Github Stats"  height="248px">
  </a>
     </div>
 </p>
@@ -91,7 +91,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=awesome-machine-learning&layout=compact&theme=dark)](https://github.com/TSdreamer/awesome-machine-learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-energy&repo=Simscape-Battery-Library&layout=compact&theme=dark)](https://github.com/TS-energy/Simscape-Battery-Library)
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=TSdreamer)](https://github.com/TSdreamer/github-contribution-stats/)
+
 
 <!-- Belarus - My Home-->
   
