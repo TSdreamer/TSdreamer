@@ -126,8 +126,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [0.1276,51.5072]
-
+        "coordinates": [0.1276, 51.5072]
       }
     },
     {
@@ -150,19 +149,19 @@
         "coordinates": [108.9398, 34.3416]
       }
     },
-   {
-    "type": "Feature",
-    "properties": {
-      "City": "Hangzhou"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [120.1536, 30.2875]
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Hangzhou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.1536, 30.2875]
+      }
     }
-  }
-
   ]
 }
+
 
 
 ```
