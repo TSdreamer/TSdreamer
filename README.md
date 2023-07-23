@@ -27,8 +27,8 @@
 - Electrochemistry Modelling
   
 ## 🔧 Skills
-- **Languages:** C/C++, Python, OCAML
-- **Frameworks:** React, Node.js, Express.js, Django,KIVY
+- **Languages:** C/C++, Python, OCaml
+- **Frameworks:** React, Node.js, Express.js, Django, KIVY
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, Docker, VS Code, Jupyter Notebook
 - **Software:** COMSOL, Aspen, gProms, CFD 
@@ -46,7 +46,7 @@
   University of Nottingham, Nottingham, United Kingdom
   
 - **Bachelor of Engineering** (2019)  
-  Southeast University, JiangSu, China 
+  Southeast University, Jiangsu, China 
 
 
 ## :man_judge: Working Experience
