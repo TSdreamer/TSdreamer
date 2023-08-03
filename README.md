@@ -27,7 +27,7 @@
 - Electrochemistry Modelling
   
 ## 🔧 Skills
-- **Languages:** C/C++, Python, OCaml
+- **Languages:** C/C++, Python, OCaml, Markdown
 - **Frameworks:** React, Node.js, Express.js, Django, KIVY
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, Docker, VS Code, Jupyter Notebook
