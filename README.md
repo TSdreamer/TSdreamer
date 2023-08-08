@@ -1,4 +1,4 @@
-<h1 align="center">:wave:  I'm Haotian (Kirin) Ma  </h1>
+<h1 align="center">:wave:  I'm Haotian (Kirin) MA  </h1>
 
 
 <div  align="center">    
@@ -28,18 +28,18 @@
   
 ## 🔧 Skills
 - **Languages:** C/C++, Python, OCaml, Markdown
-- **Frameworks:** React, Node.js, Express.js, Django, KIVY
+- **Frameworks:** React, Node.js, Express.js, DJANGO, KIVY
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, Docker, VS Code, Jupyter Notebook
-- **Software:** COMSOL, Aspen, gProms, CFD 
-- **Experiment:** XRD, SEM, TEM, and other Material Characterisation Experiments
+- **Software:** COMSOL, ASPEN, gProms, CFD 
+- **Experiment:** XRD, SEM, TEM, and other material characterisation experiments
   
 ## :man_student: Education Background
 
 - **Ph.D. in Engineering** (Expected 2026)  
   University of Warwick(UoW), Coventry, United Kingdom
 
-- **Research Assistant in Computer Science and Chemical Engineering** (2022)  
+- **Ph.D. Candidate in Computer Science and Chemical Engineering** (2022)  
   University of Birmingham, Birmingham, United Kingdom
 
 - **Master of Science in Sustainable Energy Engineering** (2021)  
