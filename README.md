@@ -32,7 +32,7 @@
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, Docker, VS Code, Jupyter Notebook
 - **Software:** COMSOL, ASPEN, gProms, CFD 
-- **Experiment:** XRD, SEM, TEM, and other material characterisation experiments
+- **Experiment:** XRD, SEM, TEM, and other  characterisation experiments
   
 ## :man_student: Education Background
 
