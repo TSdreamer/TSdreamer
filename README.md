@@ -31,8 +31,8 @@
 - **Frameworks:** React, Node.js, Express.js, DJANGO, KIVY
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, Docker, VS Code, Jupyter Notebook
-- **Software:** COMSOL, ASPEN, gProms, CFD 
-- **Experiment:** XRD, SEM, TEM, and other  characterisation experiments
+- **Software:** COMSOL,ASPEN,gProms,CFD 
+- **Experiment:** XRD, SEM, TEM, and other characterisation experiments
   
 ## :man_student: Education Background
 
