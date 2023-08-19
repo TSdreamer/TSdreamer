@@ -1,4 +1,4 @@
-<h1 align="center"> I'm HaoTian (Kirin) MA  </h1>
+<h1 align="center"> I'm Haotian (Kirin) MA  </h1>
 
 
 <div  align="center">    
