@@ -15,6 +15,7 @@
   <img src="https://i.imgur.com/JlXPELW.jpg" width="400" /> 
 </div>
 
+
 - **Personal Statement** : I'm a passionate **Ph.D. Candidate** in **Engineering**, specializing in **Machine Learning**, **Dynamical Energy Modelling**, and **Hydrogen Production Simulation**.
 
 ## 🔬 Research Focus
