@@ -16,7 +16,7 @@
 </div>
 
 
-- **Personal Statement** : I'm a passionate **Ph.D. Candidate** in **Engineering**, specializing in **Machine Learning**, **Dynamical Energy Modelling**, and **Hydrogen Production Simulation**.
+- **Personal Statement** : I'm a passionate **Ph.D. Candidate** in **Engineering**, specializing in **Machine Learning**, **Dynamical Energy Modelling**, and **Electrochemisitry Modelling**.
 
 ## 🔬 Research Focus
 
