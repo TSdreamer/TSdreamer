@@ -21,7 +21,7 @@
 ## 🔬 Research Focus
 
 - Sustainable Energy Engineering
-- Renewable Hydrogen Production
+- Computer Vision
 - Machine Learning
 - System Modelling
 - Process Simulation
