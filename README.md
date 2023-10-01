@@ -20,9 +20,8 @@
 
 ## 🔬 Research Focus
 
-- Sustainable Energy Engineering
-- Computer Vision
-- Machine Learning
+- Engineering-Energy Engineering
+- Statistics-Machine Learning
 - System Modelling
 - Process Simulation
 - Electrochemistry Modelling
