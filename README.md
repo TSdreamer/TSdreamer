@@ -95,8 +95,7 @@
 
 
 <!-- Belarus - My Home-->
-  
- ```geojson
+
 {
   "type": "FeatureCollection",
   "features": [
