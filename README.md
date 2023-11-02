@@ -156,7 +156,3 @@
 
 
 
-<!--   profile-green-animate -->
-![](./profile-green-animate.svg)
-
-```
