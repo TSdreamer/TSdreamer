@@ -94,10 +94,6 @@
 ```
 
 
-<!--   profile-green-animate -->
-![](./profile-green-animate.svg)
-
-```
 <!-- Belarus - My Home-->
   
  ```geojson
@@ -157,3 +153,10 @@
 
   ]
 }
+
+
+
+<!--   profile-green-animate -->
+![](./profile-green-animate.svg)
+
+```
