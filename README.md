@@ -94,7 +94,7 @@
 ```
 
 
-<!-- Belarus - My Home-->
+<! Belarus - My Home-->
 
 {
   "type": "FeatureCollection",
@@ -149,7 +149,6 @@
       "coordinates": [120.1536, 30.2875]
     }
   }
-
   ]
 }
 
