@@ -57,8 +57,8 @@
 - **Global Energy Interconnection Research Institute**   
   Energy Research Project Manager, Berlin, German
 
-- **HUAWEI Nuremberg Research Center**   
-  Energy Research Project Manager, Nuremberg, German
+- **HUAWEI European Research Institute**   
+  Energy Research Project Engineer, Nuremberg/Munich, German
   
 - **XPeng Europe**    
   Business Analyst, Amsterdam, Netherlands
