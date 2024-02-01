@@ -1,4 +1,4 @@
-<h1 align="center">:wave: HI, I'm HaoTian MA  </h1>
+<h1 align="center">:wave: HI, I'm Hao Tian MA  </h1>
 
 
 <div  align="center">    
