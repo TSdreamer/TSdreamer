@@ -4,7 +4,7 @@
 <div  align="center">    
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htma/) 
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahaotian10) 
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HaotianM57651) 
 <a href="https://github.com/TSdreamer/TSdreamer/blob/main/Haotian_MA_CV_2024_03_ (1).pdf" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="krishna__keshav" /></a> 
 <a href="mailto:HaotianTeemo@outlook.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=pink" alt="Mail" /></a> 
 </div>
