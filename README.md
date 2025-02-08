@@ -37,7 +37,7 @@
 ## :man_student: Education Background
 
 - **Ph.D. in Engineering** (Expected 2026)  
-  University of Warwick(UoW), Coventry, United Kingdom
+  University College London(UCL), London, United Kingdom
 
 - **Ph.D. Candidate in Computer Science and Chemical Engineering** (2022)  
   University of Birmingham, Birmingham, United Kingdom
