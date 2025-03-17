@@ -36,11 +36,11 @@
   
 ## :man_student: Education Background
 
-- **Ph.D. in Engineering** (Expected 2026)  
+- **Ph.D. in Engineering** (Expected 2025)  
   University College London(UCL), London, United Kingdom
 
-- **Ph.D. Candidate in Computer Science and Chemical Engineering** (2022)  
-  University of Birmingham, Birmingham, United Kingdom
+- **Master of Science in Control Engineering** (2023)  
+  University of Warwick, Coventry, United Kingdom
 
 - **Master of Science in Sustainable Energy Engineering** (2021)  
   University of Nottingham, Nottingham, United Kingdom
