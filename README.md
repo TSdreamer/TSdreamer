@@ -51,10 +51,10 @@
 
 ## :man_judge: Working Experience
 
-- **Warwick Manufacturing Group**      
+- **University of Warwick , Warwick Manufacturing Group**      
   Research Assistant, Coventry, United Kingdom
 
-- **Global Energy Interconnection Research Institute**   
+- **State Grid , Global Energy Interconnection Research Institute**   
   Energy Research Project Manager, Berlin, German
 
 - **HUAWEI European Research Institute**   
