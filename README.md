@@ -39,7 +39,7 @@
 - **Ph.D. in Engineering** (Expected 2025)  
   University College London(UCL), London, United Kingdom
 
-- **Master of Science in Control Engineering** (2023)  
+- **Master of Science in Control Engineering** (2025)  
   University of Warwick, Coventry, United Kingdom
 
 - **Master of Science in Sustainable Energy Engineering** (2021)  
