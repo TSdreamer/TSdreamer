@@ -36,7 +36,7 @@
   
 ## :man_student: Education Background
 
-- **Ph.D. in Engineering** (Expected 2025)  
+- **Ph.D. in Engineering** (Expected 2026)  
   University College London(UCL), London, United Kingdom
 
 - **Master of Science in Control Engineering** (2025)  
