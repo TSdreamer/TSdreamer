@@ -70,20 +70,6 @@
 - Currently, my **open-source-projects** attract   <img src="https://komarev.com/ghpvc/?username=TSdreamer&label=Profile%20Views&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
 
 
-<p align="center">
-    <div style="display: flex; justify-content: center;">
-
-
-  <a href="https://github.com/TSdreamer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=gruvbox&show_icons=true" alt="Top Langs" height="225px">
-  </a>
-  <a href="https://github.com/TSdreamer">
-    <img src="https://github-readme-stats.vercel.app/api/?username=TSdreamer&theme=gruvbox&show_icons=true&hide_border=true&stroke=0000&background=060A0CD0" alt="Github Stats"  height="225px">
- </a>
-    </div>
-</p>
-
-
 ## :trophy: Highlighted Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Machine_Learning_MEA_Optimization&layout=compact&theme=dark)]( https://github.com/TSdreamer/Machine_Learning_MEA_Optimization)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
