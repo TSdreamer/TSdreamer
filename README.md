@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Hi, I'm <span style="color:#00FFFF;">Haotian MA</span></h1>
+<h1 align="center">🤖 Hi, I'm <span style="color:#00FFFF;">Haotian(Tianyi) MA</span></h1>
 <h3 align="center">AI for Physical Systems | Energy Modeling | Scientific Machine Learning</h3>
 
 <p align="center">
