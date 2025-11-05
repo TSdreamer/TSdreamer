@@ -67,13 +67,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-energy&repo=Simscape-Battery-Library&theme=radical)](https://github.com/TS-energy/Simscape-Battery-Library)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=awesome-machine-learning&theme=radical)](https://github.com/TSdreamer/awesome-machine-learning)
 
----
 
-### 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TSdreamer&show_icons=true&theme=radical&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TSdreamer&theme=radical" height="165"/>
-</p>
 
 ---
 
