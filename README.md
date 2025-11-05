@@ -1,77 +1,82 @@
-<h1 align="center">:wave:HI , I'm Haotian MA  </h1>
+<h1 align="center">🤖 Hi, I'm <span style="color:#00FFFF;">Haotian MA</span></h1>
+<h3 align="center">AI for Physical Systems | Energy Modeling | Scientific Machine Learning</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/htma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://twitter.com/HaotianM57651"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/TSdreamer/TSdreamer/blob/main/Haotian_MA_CV_2024.pdf"><img src="https://img.shields.io/badge/Portfolio-000?logo=ko-fi&logoColor=gold&style=for-the-badge"/></a>
+  <a href="mailto:HaotianTeemo@outlook.com"><img src="https://img.shields.io/badge/Contact_Me-via_Email-000?logo=gmail&logoColor=pink&style=for-the-badge"/></a>
+</p>
 
-<div  align="center">    
+---
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htma/) 
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HaotianM57651) 
-<a href="https://github.com/TSdreamer/TSdreamer/blob/main/Haotian_MA_CV_2024_03_ (1).pdf" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="krishna__keshav" /></a> 
-<a href="mailto:HaotianTeemo@outlook.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=pink" alt="Mail" /></a> 
+<div align="center">
+  <img src="https://github.com/TSdreamer/TSdreamer/blob/main/neural%20network.gif" width="375"/>
+  <img src="https://github.com/TSdreamer/TSdreamer/blob/main/MIT-Neural-Networks-01_0.gif" width="400"/>
 </div>
 
+---
 
-<div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <img src="https://github.com/TSdreamer/TSdreamer/blob/main/neural network.gif" width="375" />
-  <img src="https://github.com/TSdreamer/TSdreamer/blob/main/MIT-Neural-Networks-01_0.gif" width="400" />
-</div>
+### 🧠 About Me
+> I’m a **Ph.D. Candidate at University College London**, researching the intersection of  
+> **AI, Electrochemistry, and Energy Systems**.  
+> My focus lies in **data-driven multiscale modeling**, **physics-informed ML**, and  
+> **simulation-optimization frameworks** for energy technologies such as batteries and electrolyzers.
 
+---
 
-- **Personal Statement** : I'm a passionate **Ph.D. Candidate** in **Engineering**, specializing in **Machine Learning**, **Dynamical Energy Modelling**, and **Electrochemisitry Modelling**.
+### 🔬 Research Domains
+- Generative AI for Scientific Simulation  
+- Physics-Informed Neural Networks (PINNs)  
+- Multiscale System Modeling (PEM, Battery, HESS)  
+- Scenario-Based Optimization & ESG Analytics  
+- Electrochemical Energy Systems (PEMWE, Li-ion)
 
-## 🔬 Research Focus
+---
 
-- Engineering-Energy Engineering
-- Statistics-Machine Learning
-- System Modelling
-- Process Simulation
-- Electrochemistry Modelling
-  
-## 🔧 Skills
-- **Languages:** C/C++, Python, OCaml, Markdown
-- **Frameworks:** React, Node.js, Express.js, DJANGO, KIVY
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Tools:** Git, Docker, VS Code, Jupyter Notebook
-- **Software:** COMSOL,ASPEN,gProms,CFD 
-- **Experiment:** XRD, SEM, TEM, and other characterisation experiments
-  
-## :man_student: Education Background
+### ⚙️ Tech Stack
+**Languages:** Python, MATLAB, C++, Julia  
+**Frameworks:** PyTorch, Simulink, COMSOL, PyBaMM  
+**AI/ML Tools:** XGBoost, GANs, PCA, SHAP, Bayesian Optimization  
+**Data & Visualization:** Pandas, NumPy, Plotly, Seaborn, Dash  
+**Engineering Software:** Aspen Plus, gPROMS, CFD, ETAP  
+**Experimentation:** GITT, EIS, XRD, SEM, TEM  
 
-- **Ph.D. in Engineering** (Expected 2026)  
-  University College London(UCL), London, United Kingdom
+---
 
-- **Master of Science in Control Engineering** (2025)  
-  University of Warwick, Coventry, United Kingdom
+### 🎓 Education
+- **Ph.D. in Engineering** — *University College London (UCL)*  
+  *AI for Energy Systems and Electrochemical Modeling*  
+- **M.Res. in Control Engineering** — *University of Warwick*  
+- **M.Sc. in Sustainable Energy Engineering** — *University of Nottingham*  
+- **B.Eng. in Energy & Power Engineering** — *Southeast University*
 
-- **Master of Science in Sustainable Energy Engineering** (2021)  
-  University of Nottingham, Nottingham, United Kingdom
-  
-- **Bachelor of Engineering** (2019)  
-  Southeast University, Jiangsu, China 
+---
 
+### 💼 Experience
+- **Huawei European Research Institute** — *Energy AI Engineer (ESG & Trading Models)*  
+- **Global Energy Interconnection Research Institute** — *Research Engineer (Hydrogen & Decarbonization)*  
+- **XPeng Europe** — *Business Analyst*  
+- **University of Warwick, WMG** — *Research Assistant (AI Simulation)*  
 
-## :man_judge: Working Experience
+---
 
-- **University of Warwick , Warwick Manufacturing Group**      
-  Research Assistant, Coventry, United Kingdom
+### 🧩 Featured Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Machine_Learning_MEA_Optimization&theme=radical)](https://github.com/TSdreamer/Machine_Learning_MEA_Optimization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&theme=radical)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-energy&repo=Simscape-Battery-Library&theme=radical)](https://github.com/TS-energy/Simscape-Battery-Library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=awesome-machine-learning&theme=radical)](https://github.com/TSdreamer/awesome-machine-learning)
 
-- **State Grid , Global Energy Interconnection Research Institute**   
-  Energy Research Project Manager, Berlin, German
+---
 
-- **HUAWEI European Research Institute**   
-  Energy Research Project Engineer, Nuremberg/Munich, German
-  
-- **XPeng Europe**    
-  Business Analyst, Amsterdam, Netherlands
+### 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TSdreamer&show_icons=true&theme=radical&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TSdreamer&theme=radical" height="165"/>
+</p>
 
-## 🌐 Personal Description
+---
 
-- Here on **GitHub** you can find research projects as well as open-source software developed in my spare time.
+### 🌌 “Bridging Physics and Intelligence”
+> _Exploring how algorithms can learn the language of matter and energy._
 
-- Currently, my **open-source-projects** attract   <img src="https://komarev.com/ghpvc/?username=TSdreamer&label=Profile%20Views&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
-
-
-## :trophy: Highlighted Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Machine_Learning_MEA_Optimization&layout=compact&theme=dark)]( https://github.com/TSdreamer/Machine_Learning_MEA_Optimization)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&layout=compact&theme=dark)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=awesome-machine-learning&layout=compact&theme=dark)](https://github.com/TSdreamer/awesome-machine-learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-energy&repo=Simscape-Battery-Library&layout=compact&theme=dark)](https://github.com/TS-energy/Simscape-Battery-Library)
