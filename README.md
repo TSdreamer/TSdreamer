@@ -11,7 +11,7 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <img src="https://github.com/TSdreamer/TSdreamer/blob/main/neural network.gif" width="400" />
+  <img src="https://github.com/TSdreamer/TSdreamer/blob/main/neural network.gif" width="380" />
   <img src="https://github.com/TSdreamer/TSdreamer/blob/main/MIT-Neural-Networks-01_0.gif" width="400" />
 </div>
 
