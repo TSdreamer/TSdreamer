@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://github.com/TSdreamer/TSdreamer/blob/main/neural%20network.gif" width="373"/>
-  <img src="https://github.com/TSdreamer/TSdreamer/blob/main/charging.gif" width="320"/>
+  <img src="https://github.com/TSdreamer/TSdreamer/blob/main/charging.gif" width="310"/>
 </div>
 
 ---
