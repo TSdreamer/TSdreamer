@@ -67,9 +67,9 @@ Core research areas include:
 
 ### 🧩 Selected Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Machine_Learning_MEA_Optimization&theme=radical)](https://github.com/TSdreamer/Machine_Learning_MEA_Optimization)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&theme=radical)](https://github.com/TSdreamer/Gradient-Boosting-Tree)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-energy&repo=Simscape-Battery-Library&theme=radical)](https://github.com/TS-energy/Simscape-Battery-Library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Machine_Learning_MEA_Optimization&theme=radical)](https://github.com/TSdreamer/Machine_Learning_MEA_Optimization)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=Gradient-Boosting-Tree&theme=radical)](https://github.com/TSdreamer/Gradient-Boosting-Tree)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TS-energy&repo=Simscape-Battery-Library&theme=radical)](https://github.com/TS-energy/Simscape-Battery-Library)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TSdreamer&repo=awesome-machine-learning&theme=radical)](https://github.com/TSdreamer/awesome-machine-learning)
 
 ---
