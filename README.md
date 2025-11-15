@@ -8,7 +8,7 @@
   <a href="https://twitter.com/HaotianM57651">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://github.com/TSdreamer/TSdreamer/blob/main/Haotian_MA_CV_2024.pdf">
+  <a href="https://github.com/TSdreamer/TSdreamer/blob/main/CV_EI_MA.pdf">
     <img src="https://img.shields.io/badge/CV-Download-000?logo=adobeacrobatreader&logoColor=red&style=for-the-badge"/>
   </a>
   <a href="mailto:HaotianTeemo@outlook.com">
