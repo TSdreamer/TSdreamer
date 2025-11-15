@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/TSdreamer/TSdreamer/blob/main/neural%20network.gif" width="250"/>
+  <img src="https://github.com/TSdreamer/TSdreamer/blob/main/neural%20network.gif" width="230"/>
   <img src="https://github.com/TSdreamer/TSdreamer/blob/main/1.gif" width="300"/>
 </div>
 
