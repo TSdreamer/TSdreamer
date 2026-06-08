@@ -1,4 +1,4 @@
-<h1 align="center">Tianyi(Haotian) Ma</h1>
+<h1 align="center">Tianyi (Haotian) MA</h1>
 <h3 align="center">Investment & Technology · Energy Systems · Scientific Machine Learning</h3>
 
 <p align="center">
