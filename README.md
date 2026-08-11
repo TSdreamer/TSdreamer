@@ -200,7 +200,6 @@ land somewhere in that already-crowded window.
 ## Also
 
 Founder and convener of **Sustainable Horizon Lab**, an invitation-only international research network of roughly 90 doctoral-level and above researchers in energy and sustainability, across institutions including the Max Planck Society, Stanford, Chicago, Tsinghua, NTU, TU Munich, Manchester, HKUST, Tokyo and Washington University. Founding member of [OYSS](https://oyss.org.uk/).
-
 ---
 
 <p align="center">
